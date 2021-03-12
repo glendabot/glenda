@@ -1,0 +1,13 @@
+{
+  "name": "glenda",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/glendabot/glenda.git",
+  "author": "tempora, nerdthatnoonelikes",
+  "type": "commonjs",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "ini": "^2.0.0"
+  }
+}
